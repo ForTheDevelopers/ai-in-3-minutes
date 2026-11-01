@@ -1,0 +1,11 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp
+
+# mdnice 主题导出，不入库
+*.html
