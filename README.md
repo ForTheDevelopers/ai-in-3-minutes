@@ -38,7 +38,7 @@ AI 不是魔法，每个概念都能 3 分钟说透。
 
 | 章节 | 内容 |
 |------|------|
-| [01 · AI基础](./docs/01-basics/) | 建立 AI 认知框架：神经网络、深度学习、大语言模型、Transformer、Token |
+| [01 · AI基础](./docs/01-basics/) | [神经网络](./docs/01-basics/01-neural-network/README.md) · [深度学习](./docs/01-basics/02-deep-learning/README.md) · [Transformer](./docs/01-basics/03-transformer/README.md) · [大语言模型](./docs/01-basics/04-llm/README.md) · [训练和推理](./docs/01-basics/05-training-and-inference/README.md) · [Token和上下文](./docs/01-basics/06-token-and-context/README.md) · [Prompt工程](./docs/01-basics/07-prompt-engineering/README.md) · [MCP](./docs/01-basics/08-mcp/README.md) · [AGI](./docs/01-basics/09-agi/README.md) |
 | [02 · AI核心能力](./docs/02-core-capabilities/) | AI 能做什么：计算机视觉、自然语言处理、生成式 AI、Agent、RAG |
 | [03 · 主流模型](./docs/03-models/) | 认识主流大模型：GPT、Claude、Gemini、Llama、Qwen 等 |
 | [04 · AI技术进阶](./docs/04-advanced/) | 深入底层技术：算力与 GPU、微调与 LoRA、蒸馏、推理模型 |
