@@ -39,7 +39,7 @@ AI 不是魔法，每个概念都能 3 分钟说透。
 | 章节 | 内容 |
 |------|------|
 | [01 · AI基础](./docs/01-basics/) | [神经网络](./docs/01-basics/01-neural-network/README.md) · [深度学习](./docs/01-basics/02-deep-learning/README.md) · [Transformer](./docs/01-basics/03-transformer/README.md) · [大语言模型](./docs/01-basics/04-llm/README.md) · [训练和推理](./docs/01-basics/05-training-and-inference/README.md) · [Token和上下文](./docs/01-basics/06-token-and-context/README.md) · [Prompt工程](./docs/01-basics/07-prompt-engineering/README.md) · [MCP](./docs/01-basics/08-mcp/README.md) · [AGI](./docs/01-basics/09-agi/README.md) |
-| [02 · AI核心能力](./docs/02-core-capabilities/) | AI 能做什么：计算机视觉、自然语言处理、生成式 AI、Agent、RAG |
+| [02 · AI核心能力](./docs/02-core-capabilities/) | [生成式AI](./docs/02-core-capabilities/01-generative-ai/README.md) · [自然语言处理](./docs/02-core-capabilities/02-nlp/README.md) · [计算机视觉](./docs/02-core-capabilities/03-computer-vision/README.md) · [RAG检索增强](./docs/02-core-capabilities/04-rag/README.md) · [AI Agent](./docs/02-core-capabilities/05-ai-agent/README.md) · [深度研究](./docs/02-core-capabilities/06-deep-research/README.md) · [Computer Use](./docs/02-core-capabilities/07-computer-use/README.md) |
 | [03 · 主流模型](./docs/03-models/) | 认识主流大模型：GPT、Claude、Gemini、Llama、Qwen 等 |
 | [04 · AI技术进阶](./docs/04-advanced/) | 深入底层技术：算力与 GPU、微调与 LoRA、蒸馏、推理模型 |
 | [05 · AI公司生态](./docs/05-ecosystem/) | 了解 AI 行业格局与主要玩家 |
