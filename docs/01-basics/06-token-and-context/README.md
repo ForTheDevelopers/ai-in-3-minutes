@@ -103,8 +103,8 @@ Token 按量计费，通常输入和输出分开定价，而且输出的单价�
 📖 **相关阅读**：
 - [3分钟搞懂大语言模型](../04-llm/README.md)
 - [3分钟搞懂Prompt工程](../07-prompt-engineering/README.md)
-- 3分钟搞懂提示词缓存
-- 3分钟搞懂上下文工程
+- [3分钟搞懂提示词缓存](../../09-agent-engineering/05-prompt-caching/README.md)
+- [3分钟搞懂上下文工程](../../09-agent-engineering/03-context-engineering/README.md)
 - 3分钟搞懂向量数据库
 
 📚 **资料来源**：

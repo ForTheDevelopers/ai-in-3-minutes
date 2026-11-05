@@ -39,14 +39,15 @@ AI 不是魔法，每个概念都能 3 分钟说透。
 | 章节 | 内容 |
 |------|------|
 | [01 · AI基础](./docs/01-basics/) | [神经网络](./docs/01-basics/01-neural-network/README.md) · [深度学习](./docs/01-basics/02-deep-learning/README.md) · [Transformer](./docs/01-basics/03-transformer/README.md) · [大语言模型](./docs/01-basics/04-llm/README.md) · [训练和推理](./docs/01-basics/05-training-and-inference/README.md) · [Token和上下文](./docs/01-basics/06-token-and-context/README.md) · [Prompt工程](./docs/01-basics/07-prompt-engineering/README.md) · [MCP](./docs/01-basics/08-mcp/README.md) · [AGI](./docs/01-basics/09-agi/README.md) |
-| [02 · AI核心能力](./docs/02-core-capabilities/) | [生成式AI](./docs/02-core-capabilities/01-generative-ai/README.md) · [自然语言处理](./docs/02-core-capabilities/02-nlp/README.md) · [计算机视觉](./docs/02-core-capabilities/03-computer-vision/README.md) · [RAG检索增强](./docs/02-core-capabilities/04-rag/README.md) · [AI Agent](./docs/02-core-capabilities/05-ai-agent/README.md) · [深度研究](./docs/02-core-capabilities/06-deep-research/README.md) · [Computer Use](./docs/02-core-capabilities/07-computer-use/README.md) |
+| [02 · AI核心能力](./docs/02-core-capabilities/) | [生成式AI](./docs/02-core-capabilities/01-generative-ai/README.md) · [自然语言处理](./docs/02-core-capabilities/02-nlp/README.md) · [计算机视觉](./docs/02-core-capabilities/03-computer-vision/README.md) · [RAG检索增强](./docs/02-core-capabilities/04-rag/README.md) · [AI Agent](./docs/02-core-capabilities/05-ai-agent/README.md) · [深度研究](./docs/02-core-capabilities/06-deep-research/README.md) · [Computer Use](./docs/02-core-capabilities/07-computer-use/README.md) · [具身智能](./docs/02-core-capabilities/08-embodied-ai/README.md) |
 | [03 · 主流模型](./docs/03-models/) | 认识主流大模型：GPT、Claude、Gemini、Llama、Qwen 等 |
 | [04 · AI技术进阶](./docs/04-advanced/) | 深入底层技术：算力与 GPU、微调与 LoRA、蒸馏、推理模型 |
 | [05 · AI公司生态](./docs/05-ecosystem/) | 了解 AI 行业格局与主要玩家 |
 | [06 · AI垂直应用](./docs/06-applications/) | AI 在搜索、办公、代码、音视频等场景的落地 |
 | [07 · AI开发工具](./docs/07-dev-tools/) | 开发者常用工具：Hugging Face、Ollama、LangChain、Cursor |
 | [08 · AI商业伦理](./docs/08-business-ethics/) | AI 带来的商业与伦理问题 |
-| [09 · Agent工程](./docs/09-agent-engineering/) | 构建 Agent 的工程实践：Skills、提示词缓存等 |
+| [09 · Agent工程](./docs/09-agent-engineering/) | [Agent Loop](./docs/09-agent-engineering/01-agent-loop/README.md) · [工具调用](./docs/09-agent-engineering/02-function-calling/README.md) · [上下文工程](./docs/09-agent-engineering/03-context-engineering/README.md) · [Skills](./docs/09-agent-engineering/04-skills/README.md) · [提示词缓存](./docs/09-agent-engineering/05-prompt-caching/README.md) · [Agent记忆系统](./docs/09-agent-engineering/06-agent-memory/README.md) · [Harness](./docs/09-agent-engineering/07-harness/README.md) · [Agent沙箱与权限](./docs/09-agent-engineering/08-sandbox-and-permissions/README.md) · [Evals](./docs/09-agent-engineering/09-evals/README.md) · [多智能体协作](./docs/09-agent-engineering/10-multi-agent/README.md) · [A2A协议](./docs/09-agent-engineering/11-a2a/README.md) · [Agent界面协议](./docs/09-agent-engineering/12-agent-ui-protocols/README.md) · [AI支付协议](./docs/09-agent-engineering/13-ai-payment-protocols/README.md) |
+| [10 · AI智能体产品](./docs/10-ai-agent-products/) | 认识主流个人智能体：OpenClaw、Hermes Agent、WorkBuddy 等 |
 
 > 文章正在陆续整理上线中，欢迎 Star 关注更新。
 

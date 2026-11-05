@@ -130,7 +130,7 @@ Transformer 的基本原理已经稳定了近十年，变化快的是：
 - [3分钟搞懂深度学习](../02-deep-learning/README.md) - 理解 AI 的整体框架
 - [3分钟搞懂大语言模型](../04-llm/README.md) - 理解基于 Transformer 的大模型
 - [3分钟搞懂Token和上下文](../06-token-and-context/README.md) - 理解上下文窗口为什么有限
-- 3分钟搞懂工具调用 - 看看 Transformer 如何被用来真正干活
+- [3分钟搞懂工具调用](../../09-agent-engineering/02-function-calling/README.md) - 看看 Transformer 如何被用来真正干活
 
 **推荐学习路径**：神经网络 → 深度学习 → 本篇（Transformer）→ 大语言模型
 

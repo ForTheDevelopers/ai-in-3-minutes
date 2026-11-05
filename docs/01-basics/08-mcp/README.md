@@ -97,7 +97,7 @@ MCP 的规范和生态都在快速变化，支持的应用和服务也在不断�
 📖 **相关阅读**：
 
 - 3分钟搞懂大语言模型
-- 3分钟搞懂工具调用
+- [3分钟搞懂工具调用](../../09-agent-engineering/02-function-calling/README.md)
 
 📚 **资料来源**：
 - Anthropic，《Introducing the Model Context Protocol》，2024 年 11 月（https://www.anthropic.com/news/model-context-protocol）

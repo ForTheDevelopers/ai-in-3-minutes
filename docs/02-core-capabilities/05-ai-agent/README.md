@@ -198,12 +198,12 @@ Agent 能调用的工具，常见的有这几类：
 📖 **相关阅读**：
 
 - [3分钟搞懂大语言模型](../../01-basics/04-llm/README.md) - Agent 的“大脑”
-- 3分钟搞懂工具调用 - Agent 是怎么“动手”的
+- [3分钟搞懂工具调用](../../09-agent-engineering/02-function-calling/README.md) - Agent 是怎么“动手”的
 - [3分钟搞懂MCP](../../01-basics/08-mcp/README.md) - Agent 连接工具的统一接口
-- 3分钟搞懂Agent Loop - “想一步、做一步、看一眼”的循环
-- 3分钟搞懂Harness - 为什么同一个模型在不同产品里表现不一样
-- 3分钟搞懂多智能体协作 - 多个 Agent 怎么分工
-- 3分钟搞懂Agent沙箱与权限 - 怎么防止 Agent 乱来
+- [3分钟搞懂Agent Loop](../../09-agent-engineering/01-agent-loop/README.md) - “想一步、做一步、看一眼”的循环
+- [3分钟搞懂Harness](../../09-agent-engineering/07-harness/README.md) - 为什么同一个模型在不同产品里表现不一样
+- [3分钟搞懂多智能体协作](../../09-agent-engineering/10-multi-agent/README.md) - 多个 Agent 怎么分工
+- [3分钟搞懂Agent沙箱与权限](../../09-agent-engineering/08-sandbox-and-permissions/README.md) - 怎么防止 Agent 乱来
 - [3分钟搞懂Computer Use](../07-computer-use/README.md) - 会操作电脑的 Agent
 - [3分钟搞懂深度研究](../06-deep-research/README.md) - 最先被普通人用起来的 Agent
 

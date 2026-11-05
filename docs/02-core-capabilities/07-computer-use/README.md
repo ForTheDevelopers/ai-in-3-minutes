@@ -131,10 +131,10 @@ Computer Use 是目前变化最快的 AI 方向之一：
 📖 **相关阅读**：
 
 - [3分钟搞懂AI Agent](../05-ai-agent/README.md) - Computer Use 是 Agent 的一种动手方式
-- 3分钟搞懂工具调用 - 模型只负责开单子，执行的是程序
-- 3分钟搞懂Agent Loop - 截图、操作、再截图的循环
+- [3分钟搞懂工具调用](../../09-agent-engineering/02-function-calling/README.md) - 模型只负责开单子，执行的是程序
+- [3分钟搞懂Agent Loop](../../09-agent-engineering/01-agent-loop/README.md) - 截图、操作、再截图的循环
 - 3分钟搞懂多模态AI - 看懂截图靠的是视觉能力
-- 3分钟搞懂Agent沙箱与权限 - 怎么防止 AI 乱点
+- [3分钟搞懂Agent沙箱与权限](../../09-agent-engineering/08-sandbox-and-permissions/README.md) - 怎么防止 AI 乱点
 
 **资料来源**：
 
@@ -157,4 +157,4 @@ Computer Use 是目前变化最快的 AI 方向之一：
 
 ---
 
-⬅️ 上一篇：[3分钟搞懂深度研究(Deep Research)](../06-deep-research/README.md) ｜ [📚 返回目录](../README.md)
+⬅️ 上一篇：[3分钟搞懂深度研究(Deep Research)](../06-deep-research/README.md) ｜ [📚 返回目录](../README.md) ｜ 下一篇：[3分钟搞懂具身智能](../08-embodied-ai/README.md) ➡️

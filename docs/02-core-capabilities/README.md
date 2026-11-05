@@ -11,6 +11,7 @@
 | 5 | [3分钟搞懂AI Agent](./05-ai-agent/README.md) | ⭐⭐ |
 | 6 | [3分钟搞懂深度研究(Deep Research)](./06-deep-research/README.md) | ⭐ |
 | 7 | [3分钟搞懂Computer Use(电脑操作AI)](./07-computer-use/README.md) | ⭐⭐ |
+| 8 | [3分钟搞懂具身智能](./08-embodied-ai/README.md) | ⭐⭐ |
 
 **难度说明**：⭐ 零基础可读 · ⭐⭐ 有基础概念更佳 · ⭐⭐⭐ 需要一定技术背景
 
