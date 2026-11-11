@@ -135,7 +135,7 @@
 - [3分钟搞懂AI Agent](../05-ai-agent/README.md) - 会自己规划、自己动手的 AI
 - [3分钟搞懂Agent Loop](../../09-agent-engineering/01-agent-loop/README.md) - 深度研究“搜到够为止”背后的循环
 - [3分钟搞懂多智能体协作](../../09-agent-engineering/10-multi-agent/README.md) - 主 Agent 派子 Agent 分头查资料
-- 3分钟搞懂AI幻觉 - 编造引用链接也是一种幻觉
+- [3分钟搞懂AI幻觉](../../04-advanced/04-hallucination/README.md) - 编造引用链接也是一种幻觉
 
 **资料来源**：
 

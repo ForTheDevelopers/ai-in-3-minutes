@@ -117,8 +117,8 @@ AI 模型的价格、能力和知识截止日期更新很快，文中的价格�
 📖 **相关阅读**：
 - [3分钟搞懂大语言模型](../04-llm/README.md)
 - [3分钟搞懂深度学习](../02-deep-learning/README.md)
-- 3分钟搞懂AI算力和GPU
-- 3分钟搞懂AI微调和LoRA
+- [3分钟搞懂AI算力和GPU](../../04-advanced/07-compute-and-gpu/README.md)
+- [3分钟搞懂AI微调和LoRA](../../04-advanced/08-fine-tuning-and-lora/README.md)
 
 📚 **资料来源**：
 - Gartner 2026 年 AI 基础设施支出预测（推理约 233 亿美元 vs 训练约 190 亿美元，AI 优化 IaaS 类别）

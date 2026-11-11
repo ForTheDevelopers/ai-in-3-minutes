@@ -140,7 +140,7 @@ VLA 模型: 理解画面里有什么、苹果在哪、碗在哪
 - [3分钟搞懂AI Agent](../05-ai-agent/README.md) - 在软件世界里自己办事的 AI，具身智能是把它带进物理世界
 - [3分钟搞懂Computer Use](../07-computer-use/README.md) - 看截图、点鼠标的循环，和机器人看画面、动关节很像
 - [3分钟搞懂计算机视觉](../03-computer-vision/README.md) - 机器人认出物体、判断位置靠的是视觉能力
-- 3分钟搞懂多模态AI - VLA 模型是在多模态大模型的基础上发展出来的
+- [3分钟搞懂多模态AI](../../04-advanced/03-multimodal-ai/README.md) - VLA 模型是在多模态大模型的基础上发展出来的
 - 3分钟搞懂英伟达 - 英伟达把物理 AI 当成算力之后的下一个增长点
 - [3分钟搞懂AGI](../../01-basics/09-agi/README.md) - 不少研究者认为，AI 要真正理解世界，需要有一副身体
 

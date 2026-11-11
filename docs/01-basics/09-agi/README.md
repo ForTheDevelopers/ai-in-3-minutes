@@ -120,8 +120,8 @@ AGI 是变化最快的话题之一，下面这些内容尤其要注意更新：
 - [3分钟搞懂大语言模型](../04-llm/README.md) - 当前 AI 的本质
 - [3分钟搞懂训练和推理](../05-training-and-inference/README.md) - 为什么训练完参数就固定了
 - [3分钟搞懂Agent记忆系统](../../09-agent-engineering/06-agent-memory/README.md) - 模型外面的记忆是怎么做的
-- 3分钟搞懂推理模型 - 大模型拿下奥数金牌靠的是什么
-- 3分钟搞懂AI对齐和安全 - 能力越强，越需要对齐
+- [3分钟搞懂推理模型](../../04-advanced/01-reasoning-models/README.md) - 大模型拿下奥数金牌靠的是什么
+- [3分钟搞懂AI对齐](../../04-advanced/12-alignment/README.md) - 能力越强，越需要对齐
 
 **资料来源**：
 

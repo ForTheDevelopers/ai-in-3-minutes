@@ -201,11 +201,11 @@ RAG“先检索、再作答”的基本思路已经很稳定了，变化比较�
 
 📖 **相关阅读**：
 
-- 3分钟搞懂Embedding - 文字是怎么变成向量的
-- 3分钟搞懂向量数据库 - 检索那一步背后的数据库
+- [3分钟搞懂Embedding](../../04-advanced/05-embedding/README.md) - 文字是怎么变成向量的
+- [3分钟搞懂向量数据库](../../04-advanced/06-vector-database/README.md) - 检索那一步背后的数据库
 - [3分钟搞懂上下文工程](../../09-agent-engineering/03-context-engineering/README.md) - 窗口再大也不能随便塞
-- 3分钟搞懂AI幻觉 - RAG 能减少、但消除不了的问题
-- 3分钟搞懂AI微调和LoRA - 把知识写进模型的另一条路
+- [3分钟搞懂AI幻觉](../../04-advanced/04-hallucination/README.md) - RAG 能减少、但消除不了的问题
+- [3分钟搞懂AI微调和LoRA](../../04-advanced/08-fine-tuning-and-lora/README.md) - 把知识写进模型的另一条路
 - [3分钟搞懂深度研究](../06-deep-research/README.md) - 面向整个互联网的多轮检索
 
 **资料来源**：

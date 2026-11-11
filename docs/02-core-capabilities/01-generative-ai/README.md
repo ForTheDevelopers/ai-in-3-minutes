@@ -111,8 +111,8 @@
 - [3分钟搞懂大语言模型](../../01-basics/04-llm/README.md) - 文字生成背后的模型
 - [3分钟搞懂Transformer](../../01-basics/03-transformer/README.md) - 大模型和很多图片、视频模型共用的架构
 - [3分钟搞懂Prompt工程](../../01-basics/07-prompt-engineering/README.md) - 怎么写提示词，让 AI 生成你想要的内容
-- 3分钟搞懂AI幻觉 - 为什么 AI 会一本正经地编造
-- 3分钟搞懂多模态AI - 一个模型同时处理文字、图片、声音
+- [3分钟搞懂AI幻觉](../../04-advanced/04-hallucination/README.md) - 为什么 AI 会一本正经地编造
+- [3分钟搞懂多模态AI](../../04-advanced/03-multimodal-ai/README.md) - 一个模型同时处理文字、图片、声音
 - 3分钟搞懂AI视频生成 - 视频生成的工具和用法
 
 **资料来源**：

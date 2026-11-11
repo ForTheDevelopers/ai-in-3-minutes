@@ -141,10 +141,10 @@ Meta 在 2025 年 10 月把它整理成了一条更好执行的规则，叫 **Ag
 
 📖 **相关阅读**：
 
-- 3分钟搞懂Prompt注入攻击 - 藏在外部内容里的指令是怎么起作用的
+- [3分钟搞懂Prompt注入攻击](../../04-advanced/13-prompt-injection/README.md) - 藏在外部内容里的指令是怎么起作用的
 - [3分钟搞懂工具调用](../02-function-calling/README.md) - Agent 是怎么动手的
 - [3分钟搞懂Harness](../07-harness/README.md) - 沙箱和权限属于 Agent 外面的哪一层
-- 3分钟搞懂AI对齐和安全 - 为什么对齐代替不了权限控制
+- [3分钟搞懂AI对齐](../../04-advanced/12-alignment/README.md) - 为什么对齐代替不了权限控制
 - 3分钟搞懂容器和Docker - 沙箱最常用的底层技术
 
 **资料来源**：

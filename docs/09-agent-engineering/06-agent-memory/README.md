@@ -119,7 +119,7 @@ AI 也是一样的：
 - [3分钟搞懂提示词缓存](../05-prompt-caching/README.md) - 缓存不是记忆，两者有什么区别
 - [3分钟搞懂Skills](../04-skills/README.md) - 把“怎么做”写成文件的程序记忆
 - [3分钟搞懂RAG检索增强](../../02-core-capabilities/04-rag/README.md) - 检索外部知识的常用做法
-- 3分钟搞懂向量数据库 - 按语义找回记忆的底层工具
+- [3分钟搞懂向量数据库](../../04-advanced/06-vector-database/README.md) - 按语义找回记忆的底层工具
 - [3分钟搞懂Agent沙箱与权限](../08-sandbox-and-permissions/README.md) - 怎么防止 Agent 被恶意内容带偏
 
 **资料来源**：

@@ -152,7 +152,7 @@ AI 的输出不确定性，会发现同一道题跑三次可能出现三种结�
 
 - [3分钟搞懂Harness](../07-harness/README.md) - Evals 是 Harness 里负责检查和反馈的一环
 - [3分钟搞懂Agent Loop](../01-agent-loop/README.md) - Agent 一轮轮调用工具的过程，也是评测要记录的作答过程
-- 3分钟搞懂AI幻觉 - 评测最常要抓的一类错误
+- [3分钟搞懂AI幻觉](../../04-advanced/04-hallucination/README.md) - 评测最常要抓的一类错误
 - 3分钟搞懂测试 - 普通软件的测试是怎么做的
 
 **资料来源**：

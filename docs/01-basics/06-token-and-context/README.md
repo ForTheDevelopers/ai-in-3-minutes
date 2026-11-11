@@ -78,7 +78,7 @@ Token 按量计费，通常输入和输出分开定价，而且输出的单价�
 
 **第二，只带需要的历史。** 对话超过一定轮数后，把早期内容压缩成摘要，只保留关键信息。
 
-**第三，先检索再提问。** 资料很多时，先用检索找出相关段落，再交给模型。这就是 RAG 的思路，比整本塞进去更省，效果通常也更好。相关内容见 3分钟搞懂向量数据库。
+**第三，先检索再提问。** 资料很多时，先用检索找出相关段落，再交给模型。这就是 RAG 的思路，比整本塞进去更省，效果通常也更好。相关内容见 [3分钟搞懂向量数据库](../../04-advanced/06-vector-database/README.md)。
 
 ![先检索再提问的流程](./images/04-flowchart-retrieve-then-ask.jpg)
 
@@ -105,7 +105,7 @@ Token 按量计费，通常输入和输出分开定价，而且输出的单价�
 - [3分钟搞懂Prompt工程](../07-prompt-engineering/README.md)
 - [3分钟搞懂提示词缓存](../../09-agent-engineering/05-prompt-caching/README.md)
 - [3分钟搞懂上下文工程](../../09-agent-engineering/03-context-engineering/README.md)
-- 3分钟搞懂向量数据库
+- [3分钟搞懂向量数据库](../../04-advanced/06-vector-database/README.md)
 
 📚 **资料来源**：
 - Chroma Research，《Context Rot》，2025 年 7 月 14 日发布（测试 18 个大模型）

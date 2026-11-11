@@ -187,7 +187,7 @@ raise RuntimeError("超过步数上限, 任务未完成")
 - [3分钟搞懂Harness](../07-harness/README.md) - 驱动循环转起来的那层程序
 - [3分钟搞懂上下文工程](../03-context-engineering/README.md) - 怎么解决循环越跑越偏
 - [3分钟搞懂AI Agent](../../02-core-capabilities/05-ai-agent/README.md) - Agent 到底是什么
-- 3分钟搞懂思维链 - 和 Agent Loop 最容易混淆的概念
+- [3分钟搞懂思维链](../../04-advanced/02-chain-of-thought/README.md) - 和 Agent Loop 最容易混淆的概念
 - [3分钟搞懂MCP](../../01-basics/08-mcp/README.md) - Agent 连接工具的统一接口
 
 **资料来源**：
