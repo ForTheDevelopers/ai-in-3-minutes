@@ -189,7 +189,7 @@ GPU 的基本原理已经很稳定了，变化比较快的是下面这些：
 - [3分钟搞懂训练和推理](../../01-basics/05-training-and-inference/README.md) - 算力花在哪两件事上
 - [3分钟搞懂模型量化](../11-quantization/README.md) - 怎么用 4 位量化把模型塞进更小的显存
 - [3分钟搞懂AI微调和LoRA](../08-fine-tuning-and-lora/README.md) - 一张消费级显卡也能做的微调方法
-- 3分钟搞懂Ollama - 在本地跑开源模型最简单的工具
+- [3分钟搞懂Ollama](../../07-dev-tools/11-ollama/README.md) - 在本地跑开源模型最简单的工具
 - 3分钟搞懂开源大模型 - 本地能跑的模型有哪些
 - 3分钟搞懂英伟达 - 卖 GPU 的公司和它的 CUDA 生态
 

@@ -228,7 +228,7 @@ Pinecone 的价格也和很多人印象中的不太一样。截止目前，免�
 - [3分钟搞懂Embedding](../05-embedding/README.md) - 存进向量数据库的向量是怎么生成的
 - [3分钟搞懂RAG检索增强](../../02-core-capabilities/04-rag/README.md) - 向量数据库最主要的应用场景
 - [3分钟搞懂Agent记忆系统](../../09-agent-engineering/06-agent-memory/README.md) - 检索之外，Agent 还要管理哪些记忆
-- 3分钟搞懂LangChain - 常用来集成向量数据库的开发框架
+- [3分钟搞懂LangChain](../../07-dev-tools/13-langchain/README.md) - 常用来集成向量数据库的开发框架
 
 **资料来源**：
 

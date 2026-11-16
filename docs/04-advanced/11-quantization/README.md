@@ -200,7 +200,7 @@ vllm serve Qwen/Qwen3.6-27B-FP8
 
 📖 **相关阅读**：
 
-- 3分钟搞懂Ollama - 下载和运行量化模型最简单的工具
+- [3分钟搞懂Ollama](../../07-dev-tools/11-ollama/README.md) - 下载和运行量化模型最简单的工具
 - [3分钟搞懂AI算力和GPU](../07-compute-and-gpu/README.md) - 显存、带宽和低精度计算从哪里来
 - [3分钟搞懂AI微调和LoRA](../08-fine-tuning-and-lora/README.md) - QLoRA 把量化和微调结合在一起
 - [3分钟搞懂蒸馏](../10-distillation/README.md) - 另一种把模型变小的方法
