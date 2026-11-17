@@ -181,7 +181,7 @@ powershell -c "irm https://pi.dev/install.ps1 | iex"
 
 - [3分钟搞懂Harness](../../09-agent-engineering/07-harness/README.md) - Pi 自称「Agent Harness」，先弄懂 Harness 指的是什么
 - [3分钟搞懂上下文工程](../../09-agent-engineering/03-context-engineering/README.md) - Pi 做减法，本质上是在管上下文里放什么
-- 3分钟搞懂OpenClaw - 在 Pi 上长出来的个人 AI 助手
+- [3分钟搞懂OpenClaw](../../10-ai-agent-products/01-openclaw/README.md) - 在 Pi 上长出来的个人 AI 助手
 - [3分钟搞懂Claude Code](../06-claude-code/README.md) - 功能齐全、权限模式更细的编程 Agent，可以和 Pi 对照着看
 - [3分钟搞懂OpenCode](../08-opencode/README.md) - 同样能接多家模型的开源编程 Agent，开箱功能更完整
 - [3分钟搞懂MCP](../../01-basics/08-mcp/README.md) - Pi 1.0 加回来的那个工具连接协议
