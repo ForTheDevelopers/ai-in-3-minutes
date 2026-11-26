@@ -139,7 +139,7 @@ Google 的 Gemini 从 2023 年 12 月的第一代开始就是这么做的，所�
 - [3分钟搞懂Embedding](../05-embedding/README.md) - CLIP 怎么把图片和文字放进同一个向量空间
 - [3分钟搞懂Token和上下文](../../01-basics/06-token-and-context/README.md) - 图片和视频为什么会占上下文
 - 3分钟搞懂Gemini - 原生多模态和长视频理解的代表
-- 3分钟搞懂AI图像生成 - 多模态里“生成”的那一半
+- [3分钟搞懂AI图像生成](../../06-applications/04-ai-image-generation/README.md) - 多模态里“生成”的那一半
 - [3分钟搞懂Computer-Use](../../02-core-capabilities/07-computer-use/README.md) - 看懂屏幕截图之后，再去操作电脑
 
 **资料来源**：

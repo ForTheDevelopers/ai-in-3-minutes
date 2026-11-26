@@ -153,7 +153,7 @@ AI 支付涉及合规，变化比一般的 Agent 协议更快，下面这些尤�
 - [3分钟搞懂MCP](../../01-basics/08-mcp/README.md) - UCP 和 ACP 都可以通过 MCP 接入
 - [3分钟搞懂Agent沙箱与权限](../08-sandbox-and-permissions/README.md) - 付款这类操作怎么设关卡
 - [3分钟搞懂Agent界面协议](../12-agent-ui-protocols/README.md) - 确认付款的按钮怎么展示给用户
-- 3分钟搞懂AI监管政策 - AI 自主交易背后的监管问题
+- [3分钟搞懂AI监管政策](../../08-business-ethics/06-ai-regulation/README.md) - AI 自主交易背后的监管问题
 
 **资料来源**：
 

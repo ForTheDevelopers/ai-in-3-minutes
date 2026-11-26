@@ -113,7 +113,7 @@
 - [3分钟搞懂Prompt工程](../../01-basics/07-prompt-engineering/README.md) - 怎么写提示词，让 AI 生成你想要的内容
 - [3分钟搞懂AI幻觉](../../04-advanced/04-hallucination/README.md) - 为什么 AI 会一本正经地编造
 - [3分钟搞懂多模态AI](../../04-advanced/03-multimodal-ai/README.md) - 一个模型同时处理文字、图片、声音
-- 3分钟搞懂AI视频生成 - 视频生成的工具和用法
+- [3分钟搞懂AI视频生成](../../06-applications/05-ai-video-generation/README.md) - 视频生成的工具和用法
 
 **资料来源**：
 

@@ -131,7 +131,7 @@
 
 📖 **相关阅读**：
 
-- 3分钟搞懂AI搜索引擎 - 搜一次就总结的 AI 搜索
+- [3分钟搞懂AI搜索引擎](../../06-applications/01-ai-search/README.md) - 搜一次就总结的 AI 搜索
 - [3分钟搞懂AI Agent](../05-ai-agent/README.md) - 会自己规划、自己动手的 AI
 - [3分钟搞懂Agent Loop](../../09-agent-engineering/01-agent-loop/README.md) - 深度研究“搜到够为止”背后的循环
 - [3分钟搞懂多智能体协作](../../09-agent-engineering/10-multi-agent/README.md) - 主 Agent 派子 Agent 分头查资料

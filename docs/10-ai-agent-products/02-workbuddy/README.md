@@ -178,7 +178,7 @@ WorkBuddy 平均两三天就更新一个版本，下面这些信息最容易变�
 
 📖 **相关阅读**：
 
-- 3分钟搞懂AI办公助手 - 嵌在 WPS、腾讯文档里的 AI，和 WorkBuddy 是两类产品
+- [3分钟搞懂AI办公助手](../../06-applications/02-ai-office-assistant/README.md) - 嵌在 WPS、腾讯文档里的 AI，和 WorkBuddy 是两类产品
 - [3分钟搞懂OpenClaw](../01-openclaw/README.md) - 开源自部署的「龙虾」，WorkBuddy 兼容它的技能
 - [3分钟搞懂AI Agent](../../02-core-capabilities/05-ai-agent/README.md) - 智能体为什么能自己拆任务、自己动手
 - [3分钟搞懂Computer Use](../../02-core-capabilities/07-computer-use/README.md) - AI 直接操作电脑界面的原理

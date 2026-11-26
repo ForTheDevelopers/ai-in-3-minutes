@@ -182,7 +182,7 @@ AI 代码助手是变化最快的 AI 产品之一，下面这些内容最容易�
 - [3分钟搞懂Agent沙箱与权限](../../09-agent-engineering/08-sandbox-and-permissions/README.md) - 为什么 Agent 动手之前需要权限控制
 - [3分钟搞懂Ollama](../11-ollama/README.md) - 给编程工具换上本地运行的开源模型
 - [3分钟搞懂Prompt工程](../../01-basics/07-prompt-engineering/README.md) - 怎么给 AI 把需求写清楚
-- 3分钟搞懂AI就业影响 - AI 写代码对程序员岗位的影响
+- [3分钟搞懂AI就业影响](../../08-business-ethics/04-ai-and-jobs/README.md) - AI 写代码对程序员岗位的影响
 
 **资料来源**：
 
